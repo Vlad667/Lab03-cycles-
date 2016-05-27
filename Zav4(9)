@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main ()
+{
+    int max;
+    double k,sum=0;
+    
+           printf("maxim(k) =");
+           scanf("%d", &max);
+    
+           for (k = 1; k <= max; k++) {
+           	sum = pow(-1,k) / ((2*k + 1)*k);
+    
+    }
+    
+    printf("\nSumma = %lf", sum);
+    
+    system("pause");
+    
+    return 0;
+}
