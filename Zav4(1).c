@@ -15,6 +15,6 @@ for (i = 1; i <= max; i++) {
     sum = 1 / pow ((2 * i), 2);
     }
     printf("\nSumma rivna %lf", sum);
-    system("pause")
+    system("pause");
     return 0;
 }
