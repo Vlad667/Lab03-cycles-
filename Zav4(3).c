@@ -15,3 +15,4 @@ int main () {
     printf("\nSumma rivna = %lf", sum);
     system("pause");
     return 0;
+
