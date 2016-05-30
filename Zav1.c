@@ -22,6 +22,6 @@ int main(void)
              printf("%d\n",y);
     }
     system("pause");        
-    
+  
     return (0);   
 }
