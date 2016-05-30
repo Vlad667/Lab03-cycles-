@@ -4,7 +4,7 @@ int main()
 {
     int n, i;
     
-    printf("Vvedite chislo: ");
+    printf("Vvedite chislo:");
     scanf("%d", &n);
     
     while (n != 0){
