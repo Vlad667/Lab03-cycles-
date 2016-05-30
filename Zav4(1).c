@@ -18,3 +18,4 @@ for (i = 1; i <= max; i++) {
     system("pause");
     return 0;
 }
+
